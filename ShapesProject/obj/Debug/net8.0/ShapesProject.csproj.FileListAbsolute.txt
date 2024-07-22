@@ -1,0 +1,5 @@
+/Users/landonphillippi/Desktop/projects/ShapesProject/obj/Debug/net8.0/ShapesProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/landonphillippi/Desktop/projects/ShapesProject/obj/Debug/net8.0/ShapesProject.AssemblyInfoInputs.cache
+/Users/landonphillippi/Desktop/projects/ShapesProject/obj/Debug/net8.0/ShapesProject.AssemblyInfo.cs
+/Users/landonphillippi/Desktop/projects/ShapesProject/obj/Debug/net8.0/ShapesProject.csproj.CoreCompileInputs.cache
+/Users/landonphillippi/Desktop/projects/ShapesProject/obj/Debug/net8.0/ShapesProject.sourcelink.json
